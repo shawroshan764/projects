@@ -1,0 +1,7 @@
+body{
+  background: #ffffff
+
+}
+.dark-border {
+  border: 2px solid #343a40; /* Use your preferred dark color code */
+}

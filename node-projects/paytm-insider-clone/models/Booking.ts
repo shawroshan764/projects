@@ -12,7 +12,7 @@ const bookingSchema = new Schema<IBooking>(
         softDelete: { type: Boolean, default: false },
         // Additional fields from the associated user
         name: { type: String, required: true },
-        moible: { type: String, required: true },
+        mobile: { type: String, required: true },
     },
     {
         timestamps: true,
